@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @Crovargr
 - 👀 I’m interested in Data Science, AI and CyberSecurity
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on learning more :)
-- 📫 How to reach me it's easy
-- 😄 Pronouns: ...
+- 💞️ I’m looking to collaborate to learn more
 - ⚡ Fun fact: "free learning is the best learning"
 
 <!---
