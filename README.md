@@ -1,5 +1,5 @@
 - 👀 I’m interested in Data Science, AI and CyberSecurity
-- 💞️ I’m looking to collaborate to learn more
+- 💞️ I’m looking to learn more
 - ⚡ Fun fact: "free learning is the best learning"
 
 <!---
